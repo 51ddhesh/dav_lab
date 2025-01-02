@@ -15,9 +15,9 @@ file_path = 'Heart.csv'
 df = pd.read_csv(file_path)
 ```
 <br>3. Inspect Data:
-   - Data Info
-   - Data Statistics
-   - 5 rows
+   - Display data info
+   - Display data statistics
+   - Display 5 rows
 ```python
 df.info()
 ```
