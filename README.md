@@ -1,5 +1,5 @@
-# lab_DAV
+# DAV Laboratory
 (Academic)<br>
-```python
+```cpp
   repo for DAV laboratory (CB2210L)
 ```
